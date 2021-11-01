@@ -175,4 +175,10 @@ Topics Include:
 
 ## Conclusions
 
-When you tie all of these threads together ![](images/trumpsSupport.jpg)
+When you tie all of these threads together, you wind up with a newly
+poor, frustrated group of agitators, brimming with energy and passion to
+make a difference in their world. This True Believer style energy was in
+need of a voice, and then a man came along who heard them, and
+understood their frustration and anger.
+
+![](images/trumpsSupport.jpg)
