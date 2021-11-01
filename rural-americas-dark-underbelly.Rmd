@@ -40,17 +40,22 @@ In 1951, American Social Philosopher Eric Hoffer wrote the book "[The True Belie
 > The “New Poor” are a different group of people than the extremely poor. They are anyone in society that used to be doing well, but now are relatively worse
 off. The New Poor are the most likely group to join mass movements.
 
+!!!INSERT MAP/CHART ON MEDIAN INCOME FOR INFLATION 
 
-This section deeps into a deep nostalgia for the times that life really was better. Even for those that have not fallen yet, there is a distinct fear that their jobs are next, their security will disappear follow. This map looks at:  
+This section deeps into a deep nostalgia for the times that life really was better. Even for those that have not fallen yet, there is a distinct fear that their jobs are next, their security will disappear follow. This section looks at:  
 - Industry Specific Employment Trends, including farming.  
 - Debt to asset ratios (farming and personal)  
 - Income and Poverty  
 - Loss of Farms, and Agricultural Diversity
 
+
+
 ## Frustration
 > A “true believer” who becomes part of a mass movement feels frustrated, forgotten and individually powerless. When people feel powerless and frustrated, the freedom they deeply ache for is a freedom FROM individual responsibility.
 
 ### Population Losses and Loss of Representation   
+
+!!!!!add map for long term population loss HERE
 
 People cling to their rural roots, even if they no longer are there. Politicians never did a good job listening to rural constituents, and as urban areas continue to grow in population, representation is removed from remote communities. 
 
@@ -58,8 +63,17 @@ People cling to their rural roots, even if they no longer are there. Politicians
 
 This loss of voice is real, and feels very profound, and as farm fields are gobbled up by urban areas, the loss of roots and rural connection creates a sense of nostalgia, as well as fear of losing the world as they know it, creates frustration that can be capitalized on. 
 
-![](images/trumpsSupport.jpg)  
+### Rural Identity and Independence 
+We... don't need farmers anymore. Does rural America even really need to exist?
 
+Like manufacturing, increasing efficiency and mechanization, as well as corporate consolidation, has reduced the needs of people to even exist in a lot of these areas. 
+
+![](images/croplandCons.jpg)  
+Wisconsin ALONE lost 2,515 dairy farms from 2017-2021. 
+
+People are leaving for centers where jobs are, leaving behind those that are too old, too poor, or too stagnant to deal with change. And those that are left behind, are increasingly isolated, and frustrated.
+
+### Toxic Cultural Traits
 Internal reflection IS HARD. It is much easier to blame failures on anything, or everything else. It is a way that people preserve their self-respect and health, especially when things have not been going well. It is the fault of: the economy, “the system,” the government, capitalism, high taxes… anything outside themselves. 
 
 ![](images/drtaber1.jpg)
@@ -68,15 +82,12 @@ Internal reflection IS HARD. It is much easier to blame failures on anything, or
 ![](images/drtaber4.jpg)  
 ![](images/drtaber5.jpg)  
 
-These are hard conversations that feed back into rural culture. And despite the close knit communities that relied on cohesion or death, a lot had to be ignored to even survive.  A lot of these elements of ourselves taht are toxic cultural traits, we are not even aware we have, and that makes them difficult to talk about. This section addresses some of the toxic cultural beliefs partially responsible for:  
+These are hard conversations that feed back into rural culture. People are not just leaving because there is a decreasing need for manual labor, but they are leaving because they want to get out. 
 
-### Rural Identity and Independence 
-We... don't need farmers anymore. Why does rural America even really need to exist?
+Rural communities are close knit communities that relied on cohesion or death. When you are focused on surviving, satisfaction is gained from a full belly from a full days work. Once relative wealth increased, our interactions as communities and families needed to change and adjust. But, a lot of times it didn't. 
 
-Like manufacturing, increasing efficiency and mechanization, as well as corporate consolidation, has reduced the needs of people to even exist in a lot of these areas. 
+A lot of these long term family dynamics are elements of ourselves that can be downright toxic. And unless we are in good contact with ourselves, we are not even aware we have, and that makes them difficult to talk about. 
 
-![](images/croplandCons.jpg)  
-Wisconsin ALONE lost 2,515 dairy farms from 2017-2021. 
 
 
 
@@ -100,5 +111,7 @@ Topics Include:
 - Mass Media Consolidation and the Loss of Newspapers  
 - The rise of right wing local news   
 
-
+## Conclusions
+When you tie all of these threads together
+![](images/trumpsSupport.jpg)  
 

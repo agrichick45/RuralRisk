@@ -10,7 +10,9 @@ Mandy Liesch
         Representation](#population-losses-and-loss-of-representation)
     -   [Rural Identity and
         Independence](#rural-identity-and-independence)
+    -   [Toxic Cultural Traits](#toxic-cultural-traits)
 -   [Passionate Hatred](#passionate-hatred)
+-   [Conclusions](#conclusions)
 
 ``` r
 rmarkdown::render("rural-americas-dark-underbelly.Rmd", 
@@ -69,10 +71,12 @@ major points:
 > are relatively worse off. The New Poor are the most likely group to
 > join mass movements.
 
+!!!INSERT MAP/CHART ON MEDIAN INCOME FOR INFLATION
+
 This section deeps into a deep nostalgia for the times that life really
 was better. Even for those that have not fallen yet, there is a distinct
 fear that their jobs are next, their security will disappear follow.
-This map looks at:  
+This section looks at:  
 - Industry Specific Employment Trends, including farming.  
 - Debt to asset ratios (farming and personal)  
 - Income and Poverty  
@@ -86,6 +90,8 @@ This map looks at:
 > freedom FROM individual responsibility.
 
 ### Population Losses and Loss of Representation
+
+!!!!!add map for long term population loss HERE
 
 People cling to their rural roots, even if they no longer are there.
 Politicians never did a good job listening to rural constituents, and as
@@ -101,7 +107,23 @@ are gobbled up by urban areas, the loss of roots and rural connection
 creates a sense of nostalgia, as well as fear of losing the world as
 they know it, creates frustration that can be capitalized on.
 
-![](images/trumpsSupport.jpg)
+### Rural Identity and Independence
+
+We… don’t need farmers anymore. Does rural America even really need to
+exist?
+
+Like manufacturing, increasing efficiency and mechanization, as well as
+corporate consolidation, has reduced the needs of people to even exist
+in a lot of these areas.
+
+![](images/croplandCons.jpg)  
+Wisconsin ALONE lost 2,515 dairy farms from 2017-2021.
+
+People are leaving for centers where jobs are, leaving behind those that
+are too old, too poor, or too stagnant to deal with change. And those
+that are left behind, are increasingly isolated, and frustrated.
+
+### Toxic Cultural Traits
 
 Internal reflection IS HARD. It is much easier to blame failures on
 anything, or everything else. It is a way that people preserve their
@@ -114,24 +136,20 @@ capitalism, high taxes… anything outside themselves.
 ![](images/drtaber4.jpg)  
 ![](images/drtaber5.jpg)
 
-These are hard conversations that feed back into rural culture. And
-despite the close knit communities that relied on cohesion or death, a
-lot had to be ignored to even survive. A lot of these elements of
-ourselves taht are toxic cultural traits, we are not even aware we have,
-and that makes them difficult to talk about. This section addresses some
-of the toxic cultural beliefs partially responsible for:
+These are hard conversations that feed back into rural culture. People
+are not just leaving because there is a decreasing need for manual
+labor, but they are leaving because they want to get out.
 
-### Rural Identity and Independence
+Rural communities are close knit communities that relied on cohesion or
+death. When you are focused on surviving, satisfaction is gained from a
+full belly from a full days work. Once relative wealth increased, our
+interactions as communities and families needed to change and adjust.
+But, a lot of times it didn’t.
 
-We… don’t need farmers anymore. Why does rural America even really need
-to exist?
-
-Like manufacturing, increasing efficiency and mechanization, as well as
-corporate consolidation, has reduced the needs of people to even exist
-in a lot of these areas.
-
-![](images/croplandCons.jpg)  
-Wisconsin ALONE lost 2,515 dairy farms from 2017-2021.
+A lot of these long term family dynamics are elements of ourselves that
+can be downright toxic. And unless we are in good contact with
+ourselves, we are not even aware we have, and that makes them difficult
+to talk about.
 
 -   Deaths from Despair (Suicides/Overdoses/Alcoholism)
 
@@ -154,3 +172,7 @@ Topics Include:
 - Rural School Closures  
 - Mass Media Consolidation and the Loss of Newspapers  
 - The rise of right wing local news
+
+## Conclusions
+
+When you tie all of these threads together ![](images/trumpsSupport.jpg)
