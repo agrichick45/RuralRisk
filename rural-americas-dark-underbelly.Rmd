@@ -8,7 +8,16 @@ author: "Mandy Liesch"
 knitr::opts_chunk$set(echo = TRUE)
 library(rmarkdown)
 library(tufte)
+library(usethis)
+library(knitr)
+use_git_config(user.name="Mandy Liesch", user.email="amliesch@ncsu.edu")
+```
 
+```{r, eval=FALSE, message = FALSE, warning=FALSE}
+rmarkdown::render("rural-americas-dark-underbelly.Rmd", 
+                  output_format = "github_document", 
+                  output_options = list(toc=TRUE, toc_depth = 3, html_preview=FALSE), 
+                  output_file = "DarkRisk.md")
 ```
 
 ## Introduction
@@ -48,6 +57,14 @@ This feeds back into rural culture, and some of the toxic cultural traits that a
 - Rural Identity and Independence in a changing world  
 - Population Losses and Loss of Representation   
 - Deaths from Despair (Suicides/Overdoses)  
+
+![](images/drtaber1.jpg)
+![](images/drtaber2.jpg)
+![](images/drtaber3.jpg)  
+![](images/drtaber4.jpg)  
+![](images/drtaber5.jpg)  
+
+
 
 ## Passionate Hatred  
 >Mass movements can rise and spread without belief in a God, but never without belief in a devil. 

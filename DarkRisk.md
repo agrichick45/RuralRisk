@@ -8,6 +8,13 @@ Mandy Liesch
 -   [Frustration](#frustration)
 -   [Passionate Hatred](#passionate-hatred)
 
+``` r
+rmarkdown::render("rural-americas-dark-underbelly.Rmd", 
+                  output_format = "github_document", 
+                  output_options = list(toc=TRUE, toc_depth = 3, html_preview=FALSE), 
+                  output_file = "DarkRisk.md")
+```
+
 ## Introduction
 
 There are a lot of images, pictures, and stereotypes that pop up when
@@ -86,6 +93,11 @@ the toxic cultural beliefs partially responsible for:
 - Rural Identity and Independence in a changing world  
 - Population Losses and Loss of Representation  
 - Deaths from Despair (Suicides/Overdoses)
+
+![](images/drtaber1.jpg) ![](images/drtaber2.jpg)
+![](images/drtaber3.jpg)  
+![](images/drtaber4.jpg)  
+![](images/drtaber5.jpg)
 
 ## Passionate Hatred
 
