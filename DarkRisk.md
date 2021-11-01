@@ -11,7 +11,13 @@ Mandy Liesch
     -   [Rural Identity and
         Independence](#rural-identity-and-independence)
     -   [Toxic Cultural Traits](#toxic-cultural-traits)
+    -   [Deaths from Despair](#deaths-from-despair)
 -   [Passionate Hatred](#passionate-hatred)
+    -   [Rural School Closures](#rural-school-closures)
+    -   [Mass Media Consolidation and the Loss of
+        Newspapers](#mass-media-consolidation-and-the-loss-of-newspapers)
+    -   [The Rise of Conservative
+        Media](#the-rise-of-conservative-media)
 -   [Conclusions](#conclusions)
 
 ``` r
@@ -123,6 +129,10 @@ People are leaving for centers where jobs are, leaving behind those that
 are too old, too poor, or too stagnant to deal with change. And those
 that are left behind, are increasingly isolated, and frustrated.
 
+> By almost every measure of mental health, the countryside now does
+> worse than the big city, and the amount of pathology increases as you
+> go from metropolis to suburb to small town.
+
 ### Toxic Cultural Traits
 
 Internal reflection IS HARD. It is much easier to blame failures on
@@ -146,12 +156,31 @@ full belly from a full days work. Once relative wealth increased, our
 interactions as communities and families needed to change and adjust.
 But, a lot of times it didn’t.
 
+> There is some toxic factor in rural and small-town life itself that
+> makes people mentally ill, or turns them towards drugs.
+
 A lot of these long term family dynamics are elements of ourselves that
 can be downright toxic. And unless we are in good contact with
 ourselves, we are not even aware we have, and that makes them difficult
 to talk about.
 
--   Deaths from Despair (Suicides/Overdoses/Alcoholism)
+### Deaths from Despair
+
+Another issue, borne from pain and shame, the loss of identity, and
+livelihood, paired with pain, and poverity comes escapism. Brought about
+by substance abuse, the deeper the impact roots in, the more pain
+results.
+
+> For young people, rates of opioid use in the past year were twice as
+> high among rural teens and young adults as in the nation as a whole.
+
+(Suicides/Overdoses/Alcoholism)  
+!!!! INSERT SUICIDE MAP
+
+!!! INSERT SUBSTANCE ABUSE MAPS
+
+Watching the older men and leaders of the community members lose hope,
+fuels the desperate need for purpose.
 
 ## Passionate Hatred
 
@@ -168,10 +197,29 @@ This section is probably the most frightening, and deals with the
 crumbling journalism sector, and how this rapid shift led to the
 cultivation of the echo chambers.
 
-Topics Include:  
-- Rural School Closures  
-- Mass Media Consolidation and the Loss of Newspapers  
-- The rise of right wing local news
+### Rural School Closures
+
+In a lot of communities, rural schools provide the lifeblood.  
+- Usually the towns biggest employer  
+- communities with schools have two times the property value  
+- A school board shapes a school’s leadership and policies and future.
+
+> For poor rural communities of color, these schools can serve as a
+> counterweight to the long-lasting power of those with land and money.
+
+Local schools can also lead to the closure of local businesses and
+expedite population losses. Mapping the trends are difficult right now.
+
+### Mass Media Consolidation and the Loss of Newspapers
+
+Democracy dies in the darkness is not just a slogan of a famous
+newspaper. Local news and newspapers, like rural schools, form the hub
+of how rural communities communicate. ![](images/disappearingNews.png)
+One of the
+
+### The Rise of Conservative Media
+
+![](images/hyperpartisanMedia.JPG)
 
 ## Conclusions
 
