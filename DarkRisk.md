@@ -77,16 +77,8 @@ major points:
 > are relatively worse off. The New Poor are the most likely group to
 > join mass movements.
 
-!!!INSERT MAP/CHART ON MEDIAN INCOME FOR INFLATION
-
-This section deeps into a deep nostalgia for the times that life really
-was better. Even for those that have not fallen yet, there is a distinct
-fear that their jobs are next, their security will disappear follow.
-This section looks at:  
-- Industry Specific Employment Trends, including farming.  
-- Debt to asset ratios (farming and personal)  
-- Income and Poverty  
-- Loss of Farms, and Agricultural Diversity
+![](images/farmjobloss.jpg)  
+![](images/manufacturingloss.jpg)
 
 ## Frustration
 
@@ -97,7 +89,7 @@ This section looks at:
 
 ### Population Losses and Loss of Representation
 
-!!!!!add map for long term population loss HERE
+![](images/populationLost.jpg)
 
 People cling to their rural roots, even if they no longer are there.
 Politicians never did a good job listening to rural constituents, and as
@@ -175,9 +167,9 @@ results.
 > high among rural teens and young adults as in the nation as a whole.
 
 (Suicides/Overdoses/Alcoholism)  
-!!!! INSERT SUICIDE MAP
+![](images/suicide.jpg)
 
-!!! INSERT SUBSTANCE ABUSE MAPS
+![](images/drugOD.jpg) ![](images/alcoholDeaths.jpg)
 
 Watching the older men and leaders of the community members lose hope,
 fuels the desperate need for purpose.
@@ -208,14 +200,14 @@ In a lot of communities, rural schools provide the lifeblood.
 > counterweight to the long-lasting power of those with land and money.
 
 Local schools can also lead to the closure of local businesses and
-expedite population losses. Mapping the trends are difficult right now.
+expedite population losses. Mapping the trends are difficult right now,
+as there are very few.
 
 ### Mass Media Consolidation and the Loss of Newspapers
 
 Democracy dies in the darkness is not just a slogan of a famous
 newspaper. Local news and newspapers, like rural schools, form the hub
 of how rural communities communicate. ![](images/disappearingNews.png)
-One of the
 
 ### The Rise of Conservative Media
 
