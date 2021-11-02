@@ -40,14 +40,8 @@ In 1951, American Social Philosopher Eric Hoffer wrote the book "[The True Belie
 > The “New Poor” are a different group of people than the extremely poor. They are anyone in society that used to be doing well, but now are relatively worse
 off. The New Poor are the most likely group to join mass movements.
 
-!!!INSERT MAP/CHART ON MEDIAN INCOME FOR INFLATION 
-
-This section deeps into a deep nostalgia for the times that life really was better. Even for those that have not fallen yet, there is a distinct fear that their jobs are next, their security will disappear follow. This section looks at:  
-- Industry Specific Employment Trends, including farming.  
-- Debt to asset ratios (farming and personal)  
-- Income and Poverty  
-- Loss of Farms, and Agricultural Diversity
-
+![](images/farmjobloss.jpg)  
+![](images/manufacturingloss.jpg)  
 
 
 ## Frustration
@@ -100,9 +94,10 @@ Another issue, borne from pain and shame, the loss of identity, and livelihood, 
 
  
 (Suicides/Overdoses/Alcoholism)  
-!!!! INSERT SUICIDE MAP
+![](images/suicide.jpg)  
 
-!!! INSERT SUBSTANCE ABUSE MAPS
+![](images/drugOD.jpg) 
+![](images/alcoholDeaths.jpg) 
 
 Watching the older men and leaders of the community members lose hope, fuels the desperate need for purpose. 
 
@@ -123,13 +118,12 @@ In a lot of communities, rural schools provide the lifeblood.
 
 >For poor rural communities of color, these schools can serve as a counterweight to the long-lasting power of those with land and money. 
 
-Local schools can also lead to the closure of local businesses and expedite population losses. Mapping the trends are difficult right now. 
+Local schools can also lead to the closure of local businesses and expedite population losses. Mapping the trends are difficult right now, as there are very few. 
 
-### Mass Media Consolidation and the Loss of Newspapers  
-
+### Mass Media Consolidation and the Loss of Newspapers 
 Democracy dies in the darkness is not just a slogan of a famous newspaper. Local news and newspapers, like rural schools, form the hub of how rural communities communicate. 
 ![](images/disappearingNews.png) 
-One of the
+
 
 ### The Rise of Conservative Media
 ![](images/hyperpartisanMedia.JPG)
