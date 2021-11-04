@@ -4,6 +4,7 @@ Mandy Liesch
 
 -   [Agricultural Production
     Patterns](#agricultural-production-patterns)
+    -   [Crop Heavy Counties](#crop-heavy-counties)
     -   [Animal Heavy Counties](#animal-heavy-counties)
     -   [Mixed/Balanced Counties](#mixedbalanced-counties)
 -   [Agricultural Intensification](#agricultural-intensification)
@@ -33,10 +34,13 @@ production clusters . Counties that are heavily crop reliant (1, 2, and
 categorical tree is below, describing a basic flow of how each category
 shakes out.
 
-![](cluster/markvaltree8.jpg)  
-## Crop Heavy Counties The primary branch breaks total counties into two
-groups, those with greater than 63% of their agricultural market being
-crop based (right branch), and those with less.
+![](cluster/markvaltree8.jpg)
+
+## Crop Heavy Counties
+
+The primary branch breaks total counties into two groups, those with
+greater than 63% of their agricultural market being crop based (right
+branch), and those with less.
 
 Group 1: Counties that have more than 64% of sales in the grain market
 (value of grains includes corn, oilseeds, dry beans, and dry peas sold

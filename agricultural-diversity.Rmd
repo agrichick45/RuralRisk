@@ -33,7 +33,8 @@ Diverse communities with more than one income channel should, in theory, be at l
 Using hierarchical clustering, we can find 8 major agricultural production clusters . Counties that are heavily crop reliant (1, 2, and 5), and counties that are predominantly animal reliant. The overall categorical tree is below, describing a basic flow of how each category shakes out.
 
 ![](cluster/markvaltree8.jpg)  
-## Crop Heavy Counties
+  
+## Crop Heavy Counties  
 The primary branch breaks total counties into two groups, those with greater than 63% of their agricultural market being crop based (right branch), and those with less. 
 
 Group 1: Counties that have more than 64% of sales in the grain market (value of grains includes corn, oilseeds, dry beans, and dry peas sold as percent of total market), AND less than 5% of areas in cotton. IF grain sales beween 40-64%, these areas are classified as group 1 if they have more than 10% of their market value in hogs. This area includes the Red River Valley of the North, Western Iowa, as well as Iowa and Indiana. 
